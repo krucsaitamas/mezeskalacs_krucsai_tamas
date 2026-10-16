@@ -1,0 +1,92 @@
+Képek forrása: Wikimedia Commons (https://commons.wikimedia.org)
+A képek a feladathoz egységes méretre lettek vágva.
+
+borito.jpg
+  Szerző: GutMaze
+  Licenc: CC BY-SA 4.0
+  Eredeti: https://commons.wikimedia.org/wiki/File:Gingerbread_Cookies_on_Table.jpg
+
+figura1.jpg
+  Szerző: Jonathunder
+  Licenc: CC BY-SA 3.0
+  Eredeti: https://commons.wikimedia.org/wiki/File:GingerbreadPeople.JPG
+
+figura2.jpg
+  Szerző: Pipariryhmä
+  Licenc: CC BY 3.0
+  Eredeti: https://commons.wikimedia.org/wiki/File:Erimuotoisia_piparkakkuja.jpg
+
+figura3.jpg
+  Szerző: WalkingRadiance
+  Licenc: CC BY-SA 4.0
+  Eredeti: https://commons.wikimedia.org/wiki/File:Gingerbread_men_and_women_and_hearts_and_dogs_and_stars.jpg
+
+figura4.jpg
+  Szerző: autor fotografie: Marek Blahuš výtvarné zpracování perníčků: Jana Blahušová
+  Licenc: CC BY-SA 3.0
+  Eredeti: https://commons.wikimedia.org/wiki/File:Cukrov%C3%AD_pern%C3%AD%C4%8Dky_V%C3%A1noce_2013.JPG
+
+figura5.jpg
+  Szerző: Turku Gingerbread from Finland
+  Licenc: CC BY 2.0
+  Eredeti: https://commons.wikimedia.org/wiki/File:Finnish_Gingerbread_(14795888216).jpg
+
+figura6.jpg
+  Szerző: Kritzolina
+  Licenc: CC BY-SA 4.0
+  Eredeti: https://commons.wikimedia.org/wiki/File:Chocolate_covered_gingerbread_cookies_01.jpg
+
+figura7.jpg
+  Szerző: Cnbrb
+  Licenc: CC BY-SA 4.0
+  Eredeti: https://commons.wikimedia.org/wiki/File:Lebkuchen-pile.jpg
+
+sziv1.jpg
+  Szerző: Buks88
+  Licenc: CC BY-SA 4.0
+  Eredeti: https://commons.wikimedia.org/wiki/File:Lectova_srca_.jpg
+
+sziv2.jpg
+  Szerző: SpeedyGonsales
+  Licenc: CC BY 3.0
+  Eredeti: https://commons.wikimedia.org/wiki/File:Licitari.jpg
+
+sziv3.jpg
+  Szerző: Seanpu1
+  Licenc: CC BY-SA 3.0
+  Eredeti: https://commons.wikimedia.org/wiki/File:Licitars2.jpg
+
+sziv4.jpg
+  Szerző: Robert Majetic
+  Licenc: CC BY-SA 2.0
+  Eredeti: https://commons.wikimedia.org/wiki/File:Samobor_Licitar.jpg
+
+haz1.jpg
+  Szerző: Louis174936
+  Licenc: CC BY-SA 4.0
+  Eredeti: https://commons.wikimedia.org/wiki/File:Gingerbread_House_2025.jpg
+
+haz2.jpg
+  Szerző: PatríciaR
+  Licenc: CC BY-SA 4.0
+  Eredeti: https://commons.wikimedia.org/wiki/File:Pepparkakshus.JPG
+
+haz3.jpg
+  Szerző: Orsotron
+  Licenc: CC BY-SA 3.0
+  Eredeti: https://commons.wikimedia.org/wiki/File:Gingerbread_landscape.jpg
+
+haz4.jpg
+  Szerző: Roopesh Sheth
+  Licenc: CC BY-SA 2.0
+  Eredeti: https://commons.wikimedia.org/wiki/File:Neela%27s_Gingerbread_House_12-05-2009-4.jpg
+
+haz5.jpg
+  Szerző: Andrew Kelsall
+  Licenc: CC BY 2.0
+  Eredeti: https://commons.wikimedia.org/wiki/File:Gingerbread_house_6.jpg
+
+haz6.jpg
+  Szerző: Thegreatmutata
+  Licenc: CC BY 4.0
+  Eredeti: https://commons.wikimedia.org/wiki/File:Gingerbread_house_with_candy.jpg
